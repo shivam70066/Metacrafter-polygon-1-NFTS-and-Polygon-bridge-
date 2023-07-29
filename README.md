@@ -23,7 +23,7 @@ To successfully complete the Challenge, your project should:
 ### Installation and Execution
   1. First fork and clone my repo.
   2. Do **npm i**
-  3. Add your environment variables in .env file.
+  3. Create .env file store all necessary environment variables in that.
   4. Run **npx hardhat compile**
   5. **npx hardhat run scripts/deploy.js ---network goerli** will deploy your ERC721A contract to goerli testnet.
   6. The deployed contract address will get written in contractAddress.js
