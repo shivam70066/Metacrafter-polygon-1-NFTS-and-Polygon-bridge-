@@ -12,7 +12,7 @@ To successfully complete the Challenge, your project should:
 1. Generate a 5-item collection using DALLE 2 or Midjourney
 2. Store items on IPFS using pinata.cloud
 3. Deploy an ERC721 or ERC1155 to the Goerli Ethereum Testnet
-      You should have a promptDescription function on the contract that returns the prompt you used to generate the images
+      * You should have a promptDescription function on the contract that returns the prompt you used to generate the images
 4. Map Your NFT Collection using Polygon network token mapper. Note: this isn’t necessary but helpful for visualization.
 5. Write a hardhat script to batch mint all NFTs. Hint: ERC721A is optimal here.
 6. Write a hardhat script to batch transfer all NFTs from Ethereum to Polygon Mumbai using the FxPortal Bridge
