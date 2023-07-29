@@ -43,10 +43,10 @@ To successfully complete the Challenge, your project should:
 
 ### Output
 
-PolyGon Contract Address On mumbai testnetwork: 0xd2A8463d13f2F8ADB3dcD54f3F5e25B27f87436f
-### [Polyscan link](https://mumbai.polygonscan.com/token/0xd2A8463d13f2F8ADB3dcD54f3F5e25B27f87436f)
-EtherScan Contract Address: 0xd7E2eAf14c0b785eDb93AB3306D486264fcdb753
-### [Etherscan link](https://goerli.etherscan.io/address/0xd7E2eAf14c0b785eDb93AB3306D486264fcdb753)
+PolyGon Contract Address On mumbai testnetwork: 0x77A2E415F5020B18DA938611a091678f70b8741E
+### [Polyscan link](https://mumbai.polygonscan.com/token/0x77A2E415F5020B18DA938611a091678f70b8741E)
+EtherScan Contract Address on testnet: 0xe33043CeCA2Bfe4311f54ad003076ee45f0F5739
+### [Etherscan link](https://goerli.etherscan.io/address/0xe33043CeCA2Bfe4311f54ad003076ee45f0F5739)
 
 
 
